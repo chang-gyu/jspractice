@@ -8,3 +8,7 @@ node_modules
 #임시 파일
 *.tmp
 *~
+
+#es5 버전용
+dist
+public/dist
